@@ -1,8 +1,9 @@
 package com.awen.dianping.common;
 
-/**
- * Created by hzllb on 2019/7/9.
- */
+
+import com.awen.dianping.common.CommonError;
+import com.awen.dianping.common.EmBusinessError;
+
 public class BusinessException extends Exception {
     private CommonError commonError;
 

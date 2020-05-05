@@ -36,7 +36,24 @@
                enableUpdateByExample="false" enableDeleteByExample="false"
                enableSelectByExample="false" selectByExampleQueryId="false"></table>
         -->
-        <table tableName="user"  domainObjectName="UserModel" enableCountByExample="false"
+<!--        <table tableName="user"  domainObjectName="UserModel" enableCountByExample="false"-->
+<!--               enableUpdateByExample="false" enableDeleteByExample="false"-->
+<!--               enableSelectByExample="false" selectByExampleQueryId="false">-->
+<!--            <generatedKey column="id" sqlStatement="MySql" identity="true" />-->
+<!--        </table>-->
+
+<!--        <table tableName="seller"  domainObjectName="SellerModel" enableCountByExample="false"-->
+<!--               enableUpdateByExample="false" enableDeleteByExample="false"-->
+<!--               enableSelectByExample="false" selectByExampleQueryId="false">-->
+<!--            <generatedKey column="id" sqlStatement="MySql" identity="true" />-->
+<!--        </table>-->
+
+<!--                <table tableName="category"  domainObjectName="CategoryModel" enableCountByExample="false"-->
+<!--                       enableUpdateByExample="false" enableDeleteByExample="false"-->
+<!--                       enableSelectByExample="false" selectByExampleQueryId="false">-->
+<!--                    <generatedKey column="id" sqlStatement="MySql" identity="true" />-->
+<!--                </table>-->
+        <table tableName="shop"  domainObjectName="ShopModel" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false"
                enableSelectByExample="false" selectByExampleQueryId="false">
             <generatedKey column="id" sqlStatement="MySql" identity="true" />

@@ -2,7 +2,11 @@ package com.awen.dianping.controller.admin;
 
 import com.awen.dianping.common.AdminPermission;
 import com.awen.dianping.common.BusinessException;
+import com.awen.dianping.common.CommonRes;
 import com.awen.dianping.common.EmBusinessError;
+import com.awen.dianping.service.CategoryService;
+import com.awen.dianping.service.SellerService;
+import com.awen.dianping.service.ShopService;
 import com.awen.dianping.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -11,6 +15,7 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 import sun.misc.BASE64Encoder;
 
@@ -19,13 +24,10 @@ import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * @author Liu Awen
- * @create 2020-05-05 21:05
- */
-@Controller("admin/admin")
-@RequestMapping("admin/admin")
+@Controller("/admin/admin")
+@RequestMapping("/admin/admin")
 public class AdminController {
+
     @Value("${admin.email}")
     private String email;
 
@@ -39,6 +41,14 @@ public class AdminController {
     @Autowired
     private UserService userService;
 
+    @Autowired
+    private CategoryService categoryService;
+
+    @Autowired
+    private ShopService shopService;
+
+    @Autowired
+    private SellerService sellerService;
 
 
     public static final String CURRENT_ADMIN_SESSION = "currentAdminSession";
@@ -49,6 +59,9 @@ public class AdminController {
         ModelAndView modelAndView = new ModelAndView("/admin/admin/index");
 
         modelAndView.addObject("userCount",userService.countAllUser());
+        modelAndView.addObject("shopCount",shopService.countAllShop());
+        modelAndView.addObject("categoryCount",categoryService.countAllCategory());
+        modelAndView.addObject("sellerCount",sellerService.countAllSeller());
         modelAndView.addObject("CONTROLLER_NAME","admin");
         modelAndView.addObject("ACTION_NAME","index");
         return modelAndView;

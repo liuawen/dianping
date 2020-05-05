@@ -2,9 +2,7 @@ package com.awen.dianping.request;
 
 import javax.validation.constraints.NotBlank;
 
-/**
- * Created by hzllb on 2019/7/13.
- */
+
 public class LoginReq {
     @NotBlank(message = "手机号不能为空")
     private String telphone;

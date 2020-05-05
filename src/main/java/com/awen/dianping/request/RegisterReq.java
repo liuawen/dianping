@@ -3,9 +3,7 @@ package com.awen.dianping.request;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-/**
- * Created by hzllb on 2019/7/13.
- */
+
 public class RegisterReq {
 
     @NotBlank(message = "手机号不能为空")
