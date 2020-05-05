@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82af076-9e90-465a-a8c7-e0fafa7bbb4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dianping-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/DianpingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/DianpingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/common/EmBusinessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/common/EmBusinessError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/dal/UserModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/dal/UserModelMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserModelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/UserModelMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ddl.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapping/UserModelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapping/UserModelMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dianping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +71,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/awen/dianping/request" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -128,7 +117,8 @@
     </configuration>
     <configuration name="DianpingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dianping" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.dianping.DianpingApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.awen.dianping.DianpingApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,49 +151,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588682579585">
+    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588684945671">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783" timestamp="1588682579585" />
+    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783" timestamp="1588684945671" />
     <state x="462" y="90" key="FileChooserDialogImpl" timestamp="1588647426796">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="462" y="90" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1588647426796" />
-    <state width="1410" height="145" key="GridCell.Tab.0.bottom" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.0.bottom" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.0.center" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.0.center" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.0.left" timestamp="1588682768703">
+    <state width="1410" height="118" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.0.left" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1588682768703" />
-    <state width="1410" height="145" key="GridCell.Tab.0.right" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.0.right" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.1.bottom" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.1.bottom" timestamp="1588685345504">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.1.center" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588685345504" />
+    <state width="1410" height="118" key="GridCell.Tab.1.center" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.1.left" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.1.left" timestamp="1588685345503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
-    <state width="1410" height="145" key="GridCell.Tab.1.right" timestamp="1588682768704">
+    <state width="1410" height="118" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1588685345503" />
+    <state width="1410" height="118" key="GridCell.Tab.1.right" timestamp="1588685345504">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1410" height="145" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="118" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1588685345504" />
     <state x="84" y="0" key="SettingsEditor" timestamp="1588681600625">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="84" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1588681600625" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588683579778">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1463.783@0.0.1463.783" timestamp="1588683579778" />
   </component>
 </project>
