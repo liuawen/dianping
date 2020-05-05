@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c82af076-9e90-465a-a8c7-e0fafa7bbb4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dianping-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dianping-3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/DianpingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/DianpingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/common/EmBusinessError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/common/EmBusinessError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/dal/UserModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/dal/UserModelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awen/dianping/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserModelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/UserModelMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ddl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/UserModelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapping/UserModelMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environments/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\Environments\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bSOai6k1Oj7el2vqvu4Q4R09QW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/awen/dianping/request" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\Gitee\dianping\src\main\java\com\awen\dianping\request" />
+      <recent name="F:\work\Gitee\dianping\src\main\java\com\awen\dianping\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DianpingApplication">
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DianpingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.dianping.DianpingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DianpingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.awen.dianping.DianpingApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DianpingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dianping-3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.awen.dianping.DianpingApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.DianpingApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588682579585">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="187" y="40" width="1148" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783" timestamp="1588682579585" />
+    <state x="462" y="90" key="FileChooserDialogImpl" timestamp="1588647426796">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="462" y="90" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1588647426796" />
+    <state width="1410" height="145" key="GridCell.Tab.0.bottom" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.0.center" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.0.left" timestamp="1588682768703">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1588682768703" />
+    <state width="1410" height="145" key="GridCell.Tab.0.right" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.1.bottom" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.1.center" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.1.left" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state width="1410" height="145" key="GridCell.Tab.1.right" timestamp="1588682768704">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="145" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1588682768704" />
+    <state x="84" y="0" key="SettingsEditor" timestamp="1588681600625">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="84" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1588681600625" />
+  </component>
+</project>
